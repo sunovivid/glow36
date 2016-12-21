@@ -6,6 +6,11 @@ Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
 
+
+<p align = "left">
+ <img src = "https://www.google.co.kr/logos/doodles/2016/winter-solstice-2016-northern-hemisphere-4788310770712576-hp.gif" alt = "screenshot"/>
+ </p>
+
 ### Contributions
 
 [Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
