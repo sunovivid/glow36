@@ -8,7 +8,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 
 <p align = "left">
- <img src = "https://www.google.co.kr/logos/doodles/2016/winter-solstice-2016-northern-hemisphere-4788310770712576-hp.gif" alt = "screenshot"/>
+ <img src = "https://www.google.co.kr/logos/doodles/2016/winter-solstice-2016-northern-hemisphere-4788310770712576-hp.gif" alt = "2048 mock ver"/>
  </p>
 
 ### Contributions
